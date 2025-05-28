@@ -10,15 +10,23 @@ En concreto se cambiará la variable  noise_case = "..." por las siguientes opci
 
 ## Modelo 3D (hex path)
 
+Se reproduce el bag dentro de la ruta: "bags/hex_path" para cada una de las configuraciones:
+
 | Caso base | Alta incertidumbre en la observación | Alta incertidumbre en el modelo de movimiento |
 |:---------:|:------------------------------------:|:---------------------------------------------:|
 | <img src="imgs/hex_3d_base.png" width="250"> | <img src="imgs/alta_obs_3d.png" width="250"> | <img src="imgs/alto_mod_3d.png" width="250"> |
+
 ## Modelo 7D (circle path)
+
+Se reproduce el bag dentro de la ruta: "bags/circle_path" para cada una de las configuraciones:
+
 | Caso base | Alta incertidumbre en la observación | Alta incertidumbre en el modelo de movimiento |
 |:---------:|:------------------------------------:|:---------------------------------------------:|
 | <img src="imgs/base_7d.png" width="250"> | <img src="imgs/alta_obs_7d.png" width="250"> | <img src="imgs/alto_modelo_7d.png" width="250"> |
 
 ## Modelo 8d (default path)
+
+Se reproduce el bag dentro de la ruta: "bags/default_path" para cada una de las configuraciones:
 
 | Caso base | Alta incertidumbre en la observación | Alta incertidumbre en el modelo de movimiento |
 |:---------:|:------------------------------------:|:---------------------------------------------:|
