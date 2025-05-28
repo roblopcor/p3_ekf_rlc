@@ -8,7 +8,7 @@ En concreto se cambiará la variable  noise_case = "..." por las siguientes opci
 - "alta_observacion": ruido más alto en el las observaciones y un ruido moderado en el modelo
 - "alto_modelo": ruido más alto en el modelo y moderado en las observaciones
 
-## Modelo 3D (hex path)
+## Modelo 3D (hex_path)
 
 Se reproduce el bag dentro de la ruta: "bags/hex_path" para cada una de las configuraciones:
 
@@ -16,7 +16,7 @@ Se reproduce el bag dentro de la ruta: "bags/hex_path" para cada una de las conf
 |:---------:|:------------------------------------:|:---------------------------------------------:|
 | <img src="imgs/hex_3d_base.png" width="250"> | <img src="imgs/alta_obs_3d.png" width="250"> | <img src="imgs/alto_mod_3d.png" width="250"> |
 
-## Modelo 7D (circle path)
+## Modelo 7D (circle_path)
 
 Se reproduce el bag dentro de la ruta: "bags/circle_path" para cada una de las configuraciones:
 
@@ -24,7 +24,7 @@ Se reproduce el bag dentro de la ruta: "bags/circle_path" para cada una de las c
 |:---------:|:------------------------------------:|:---------------------------------------------:|
 | <img src="imgs/base_7d.png" width="250"> | <img src="imgs/alta_obs_7d.png" width="250"> | <img src="imgs/alto_modelo_7d.png" width="250"> |
 
-## Modelo 8d (default path)
+## Modelo 8d (default_path)
 
 Se reproduce el bag dentro de la ruta: "bags/default_path" para cada una de las configuraciones:
 
